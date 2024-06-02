@@ -1,0 +1,30 @@
+.empty {
+    text-align: center;
+}
+
+.topButtons{
+    min-width: 60px;
+}
+
+.name {
+    width: 34%;
+}
+
+.email, .position {
+   width: 33%;
+}
+
+.name, .email, .position {
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+    text-wrap: nowrap;
+}
+
+.even {
+    background-color: #bbbfbc;
+}
+
+.odd {
+    background-color: white;
+
+}

@@ -1,0 +1,1 @@
+export {NewPerson} from "./new-person";

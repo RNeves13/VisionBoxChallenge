@@ -1,0 +1,10 @@
+.bt {
+    border-width: 1px;
+    border-color: #747574;
+    background-color: #bbbfbc;
+}
+
+.text_box {
+    padding: 8px;
+    border-width: 0 0 2px 0;
+}

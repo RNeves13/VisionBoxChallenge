@@ -1,0 +1,8 @@
+.bt_icon {
+    max-width: 28px;
+    max-height: 28px;
+    aspect-ratio: 1;
+    border-width: 1px;
+    border-color: #747574;
+    background-color: #bbbfbc;
+}
